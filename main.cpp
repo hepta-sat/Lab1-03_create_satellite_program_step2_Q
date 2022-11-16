@@ -44,11 +44,11 @@ int main()
         
         if(cmdflag == 1){
             if(rcmd == 'a'){
-                for(int j=0;j<5;j++){
-                    gs.printf("Hello World!\r\n");
-                    condition = 1;
-                    wait_ms(1000);
-                }
+                
+
+
+
+                
             }
             initialize(); //initializing
         }
